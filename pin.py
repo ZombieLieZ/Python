@@ -1,5 +1,6 @@
 # Ez egy egyszerű pinkódos rendszer lesz :)
 # Pin = 1496, de ezt persze te változtathatod!
+# Készítette: ZombieLieZ
 import time
 
 pin = input("Írd be a pinkódot:")
