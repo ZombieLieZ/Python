@@ -29,10 +29,6 @@ if "Jól vagyok" in start:
     print("Ennek nagyon örülök!")
     start = input(f"{név}: ")
 
-if "Rickroll" in start:
-    kit.playonyt("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
-    start = input(f"{név}: ")
-
 if "youtube" in start:      # Ez elindít egy youtube videót azzal kapcsolatban amit beírtatok! pl: Sütemény készítés youtube
     kit.playonyt(start)
     start = input(f"{név}: ")
